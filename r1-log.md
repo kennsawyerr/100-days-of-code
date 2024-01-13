@@ -1,4 +1,4 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - [Kehinde Sawyerr]
 
 The log of my #100DaysOfCode challenge. Started on [January 12, Friday, 2023].
 
